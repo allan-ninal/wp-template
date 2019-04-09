@@ -1,6 +1,8 @@
-EXAMS
+TEST ON RESOURCEFULNESS
 
-Answer this https://docs.google.com/forms/d/e/1FAIpQLSfHTa2WXHmkHHM_ssSIj3cM5Zk_lXFi3mqZ7K3x68beHWRs9w/viewform
+Answer this https://docs.google.com/forms/d/e/1FAIpQLSfHTa2WXHmkHHM_ssSIj3cM5Zk_lXFi3mqZ7K3x68beHWRs9w/viewform, using any resources you can get e.g. Google, StackOverflow, or etc., within 30 minutes. And then proceed to practical exam.
+
+PRACTICAL EXAM
 
 Preparations
 
