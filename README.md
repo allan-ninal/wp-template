@@ -16,3 +16,5 @@ WordPress Familiarity
 Hooks/Template Familiarity
 
 9. On functions.php on the current theme that is used, make this possible to happen. When a user with role Customer logged in, it will redirect to "Welcome Customer" page. Also if the user with role Subscriber logged in, it will redirect to "Welcome Subscriber" page. Otherwise if a user is not a Customer nor a Subscriber, then it will just go the My Account Page.
+
+10. Commit and push your changes on your git branch.
