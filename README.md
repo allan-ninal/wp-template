@@ -9,7 +9,7 @@ Preparations
 1. Clone this repo.
 2. Create branch using this format mm-dd-firstname, e.g. 04-15-allan
 3. Download WordPress and put it under your your branch.
-4. Install WordPress using MAMP.
+4. Install WordPress using MAMP. Note that you also need to create the database, please use this format on naming mmddfirstname, e.g. 0415allan, use the default credentials of the MAMP, username name and password is "root" without the double quotes.
 
 WordPress Familiarity
 
