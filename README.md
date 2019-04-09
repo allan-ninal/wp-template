@@ -8,7 +8,7 @@ Preparations
 
 WordPress Familiarity
 
-5 Check if there the roles Customer and Subscriber exist. If either not exist, please create.
+5. Check if there the roles Customer and Subscriber exist. If either not exist, please create.
 6. Aside from the admin user that you created, create a user that is a Customer role and another user that is of Subscriber role. Also create a third user with role that is not a Customer and not a Subscriber.
 7. Create a page named "Welcome Subscriber".
 8. Create a page named "Welcome Customer".
