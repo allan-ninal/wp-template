@@ -22,7 +22,7 @@ WordPress Familiarity
 
 Hooks/Template Familiarity
 
-11. On functions.php on the current theme that is used, make this possible to happen. When a user with role Contributor logged in, it will redirect to "Welcome Contributor" page. Also if the user with role Subscriber logged in, it will redirect to "Welcome Subscriber" page. Otherwise if a user is not a Contributor nor a Subscriber, then it will just go the My Account Page.
+11. On functions.php (NO plugin to be installed) on the current theme that is used, make this possible to happen. When a user with role Contributor logged in, it will redirect to "Welcome Contributor" page. Also if the user with role Subscriber logged in, it will redirect to "Welcome Subscriber" page. Otherwise if a user is not a Contributor nor a Subscriber, then it will just go the My Account Page.
 
 12. Commit and push your changes on your git branch.
 
